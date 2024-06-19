@@ -1,1 +1,2 @@
 # OIBSIP_task2
+The NumberGuessingGame program is a simple Java game where the user guesses a randomly generated number within a specified range. The game prompts the user for the range and gives them 10 rounds to guess the number. After each guess, the game provides feedback on whether the guess is too high or too low. This program showcases basic user input, random number generation, and conditional statements in Java.
